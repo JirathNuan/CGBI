@@ -18,7 +18,7 @@ This pipeline is run based on the Conda environment (see https://docs.conda.io/e
 conda create -f environment.yml
 ```
 
-### Usage
+### Usage [for assign new samples to the pre-existing tree]
 
 All mandatory data are already deposited in this repository, including pre-existing phylogeny in newick file format. When the new samples arrive, firstly, we have to create a alignment file from FASTA sequences using Pangolin with `--usher` parameter to use UShER model instead of default pangoLEARN to classify lineage (see [UShER's doc](https://usher-wiki.readthedocs.io/en/latest/UShER.html#methodology) to see how lineages are classified), and use `--alignment` parameter to let pangolin provide alignment output file. 
 
