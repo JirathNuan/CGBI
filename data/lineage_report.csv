@@ -1,0 +1,294 @@
+taxon,lineage,conflict,ambiguity_score,scorpio_call,scorpio_support,scorpio_conflict,version,pangolin_version,pangoLEARN_version,pango_version,status,note
+hCoV-19/Thailand/CU-SI2107327-NT/2021,B.1.351,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/CU-SI2107331-NT/2021,B.1.351,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/CU-SI2100580-NPS/2021,B.1.36.16,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/CU-SI2010697-NST/2020,B.1,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/CU-SI2010772-NT/2020,B.1,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/CU-SI2010940-NT/2020,B.1,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/CU-SI205717-TS/2020,B.1,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/CU-SI2013364-NT/2020,B.1,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/CU-SI209037-NT/2020,B.1,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/CU-SI209039-NT/2020,B.1.1,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/CU-SI204610-NT/2020,A.6,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/CU-SI209040-NT/2020,B.1,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/CU-A21002-NT/2021,P.1.1,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/CU-A21288-NT/2021,AY.30,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/CU-A21289-NT/2021,AY.30,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/CU-A21291-NT/2021,AY.30,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/CU-A21292-NT/2021,AY.30,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/CU-A21293-NT/2021,AY.30,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/CU-A21287-NT/2021,AY.30,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/A21939/2020,B.1.177.77,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/A21940/2020,B.1,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/A21945/2020,B.1.1.214,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/61/2020,B,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/74/2020,B,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/SI206917-NT/2020,A.6,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/SI206587-NT/2020,A.6,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/SI206377-NST/2020,A.6,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/SI205929-NT/2020,A.6,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/SI205529-NT/2020,B.1.8,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/SI205457-NST/2020,A.6,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/SI204713-NT/2020,B,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/SI204514-NT/2020,A.6,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/SI204512-NT/2020,B.1,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/SI204487-NT/2020,B.58,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/SI203285-NT/2020,A.6,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/SI202872-NT/2020,A.6,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/SI202769-NT/2020,B,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/SI202620-NT/2020,A.6,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/SI202205-NT/2020,A,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/SI201712-NT/2020,B,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/SI200615-NT/2020,B,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/SI200478-NST/2020,B,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/SI200468-NT/2020,A.6,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/SI200433-NT/2020,B,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/SI200383-NT/2020,B,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/SI200040-NT/2020,B,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/SI200893-NT/2020,B,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/CU-A21579-NT/2021,AY.30,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/CU-A21580-NT/2021,AY.30,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/CU-A21583-NT/2021,AY.30,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/CU-A21547-NT/2021,AY.30,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/CU-A21561-NT/2021,AY.30,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/CU-A21567-NT/2021,AY.30,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/CU-A21612-NT/2021,AY.85,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/CU-A21613-NT/2021,AY.85,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/CU-A21616-NT/2021,AY.85,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/CU-A21512-NT/2021,AY.85,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/CU-A21589-NT/2021,AY.85,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/CU-A21536-NPS/2021,AY.122,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/CU-A21538-NPS/2021,AY.122,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/CU-A21555-NPS/2021,AY.85,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/CU-A21595-NPS/2021,AY.85,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/CU-A21596-NPS/2021,AY.30,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/CU-A21606-NT/2021,AY.122,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/CU-A21607-NT/2021,AY.122,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/CU-SI2102653-NT/2021,B.1.1.7,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/CU-SI2103184-NT/2021,B.1.1.7,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/CU-SI206376-NST/2020,A.6,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/CU-SI204730-NST/2020,B.1.1,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/CU-SI206685-NST/2020,A.6,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/CU-SI2010505-NT/2020,B.1,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/CU-SI2104177-NT/2021,B.1.1.7,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/CU-SI2104579-NT/2021,B.1.1,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/CU-SI2104740-NT/2021,C.36,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/CU-SI2010560-NT/2020,B.1,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/CU-SI2011649-NST/2020,A.6,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/CU-SI2013190-NT/2020,B.1,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/CU-SI2010276-NT/2020,B.1,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/CU-SI2011588-NT/2020,B.4,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/CU-SI2012575-NST/2020,B.1,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/CU-SI2012946-NT/2020,B.1,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/CU-SI2012852-NST/2020,B.1,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/CU-SI205484-NST/2020,B.1.1,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/CU-SI205488-NST/2020,B.1.1,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/CU-SI205468-NT/2020,B.1.1,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/CU-SI204961-NT/2020,A.6,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/CU-SI206022-NT/2020,B.1.1,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/CU-SI206375-NST/2020,B.1.1,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/CU-SI2104499-NT/2021,B.1.1.7,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/CU-SI2105081-NT/2021,B.1.1.7,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/CU-SI204563-NT/2020,A.6,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/CU-SI204912-NST/2020,B.1.1,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/CU-SI205704-NT/2020,A.6,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/CU-SI207252-NT/2020,B.1,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/CU-SI207624-NT/2020,B.1,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/CU-SI208546-NT/2020,B.1.1,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/CU-SI204516-NST/2020,A.6,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/CU-SI2010050-NST/2020,B.1,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/CU-SI2010069-NT/2020,B.1,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/CU-SI2010402-NT/2020,B.1,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/CU-SI2010568-NST/2020,B.1,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/CU-SI2010074-NT/2020,B.1,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/CU-SI2010708-NT/2020,B.1.1,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/CU-SI2012441-NT/2020,B.1,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/CU-SI2013233-NT/2020,B.1,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/CU-SI2013359-NS/2020,B.1,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/CU-SI2106275-NT/2021,B.1.1.7,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/CU-SI2106276-NT/2021,B.1.1.7,,,,,,PANGO-v1.2.123,3.1.19,2022-01-20,v1.2.123,passed_qc,Assigned from designation hash.
+hCoV-19/Thailand/CU-SI2100580-PC2/2021,B.1.36.16,0.0,,,,,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,Usher placements: B.1.36.16(1/1)
+hCoV-19/Thailand/CU-SI2110599-NPS/2021,B.1.36.16,0.0,,,,,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,Usher placements: B.1.36.16(1/1)
+hCoV-19/Thailand/CU-SI2110601-NPS/2021,B.1.36.16,0.0,,,,,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,Usher placements: B.1.36.16(1/1)
+hCoV-19/Thailand/CU-SI2110602-NPS/2021,B.1.36.16,0.0,,,,,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,Usher placements: B.1.36.16(1/1)
+hCoV-19/Thailand/CU-SI2110605-NPS/2021,B.1.351,0.0,,Beta (B.1.351-like),0.857100,0.000000,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 12; Ref alleles 0; Amb alleles 0; Usher placements: B.1.351(1/1)
+hCoV-19/Thailand/CU-SI2110608-NPS/2020,B.1.36,0.0,,,,,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,Usher placements: B.1.36(1/1)
+hCoV-19/Thailand/CU-SI204907-NT/2020,B.1.1.10,0.0,,,,,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,Usher placements: B.1.1.10(1/1)
+hCoV-19/Thailand/CU-SI2010717-ETA/2020,B.1,0.0,,,,,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,Usher placements: B.1(1/1)
+hCoV-19/Thailand/CU-SI204908-NT/2020,B.1.1.10,0.5,,,,,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,Usher placements: B.1.1(2/4) B.1.1.10(2/4)
+hCoV-19/Thailand/CU-SI205464-NST/2020,A.6,0.0,,,,,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,Usher placements: A.6(1/1)
+hCoV-19/Thailand/CU-SI205485-NST/2020,B.1.1.142,0.0,,,,,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,Usher placements: B.1.1.142(1/1)
+hCoV-19/Thailand/CU-SI2011343-NT/2020,B.40,0.0,,,,,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,Usher placements: B.40(1/1)
+hCoV-19/Thailand/CU-SI2013003-NT/2020,B.6,0.0,,,,,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,Usher placements: B.6(1/1)
+hCoV-19/Thailand/CU-SI206914-NT/2020,A.6,0.0,,,,,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,Usher placements: A.6(1/1)
+hCoV-19/Thailand/CU-SI2013006-NT/2020,B.6,0.0,,,,,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,Usher placements: B.6(1/1)
+hCoV-19/Thailand/CU-SI207253-NT/2020,B.1.1.142,0.0,,,,,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,Usher placements: B.1.1.142(1/1)
+hCoV-19/Thailand/CU-SI207567-NT/2020,A.6,0.0,,,,,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,Usher placements: A.6(1/1)
+hCoV-19/Thailand/CU-SI204421-NST/2020,A.6,0.0,,,,,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,Usher placements: A.6(1/1)
+hCoV-19/Thailand/CU-A21104-NT/2021,B.1.617.1,0.0,,B.1.617.1-like,0.909100,0.000000,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 10; Ref alleles 0; Amb alleles 1; Usher placements: B.1.617.1(1/1)
+hCoV-19/Thailand/CU-A21286-NT/2021,B.1.1.7,0.0,,Alpha (B.1.1.7-like),0.913000,0.043500,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 21; Ref alleles 1; Amb alleles 1; Usher placements: B.1.1.7(7/7)
+hCoV-19/Thailand/A21894/2020,B.1.2,0.0,,,,,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,Usher placements: B.1.2(1/1)
+hCoV-19/Thailand/A21896/2021,B.1,0.0,,,,,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,Usher placements: B.1(1/1)
+hCoV-19/Thailand/A21897/2021,B.1.480,0.0,,,,,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,Usher placements: B.1.480(1/1)
+hCoV-19/Thailand/A21898/2021,B.1.36.16,0.0,,,,,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,Usher placements: B.1.36.16(1/1)
+hCoV-19/Thailand/A21899/2021,B.1.36.16,0.0,,,,,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,Usher placements: B.1.36.16(1/1)
+hCoV-19/Thailand/A21900/2021,B.1.36.16,0.0,,,,,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,Usher placements: B.1.36.16(1/1)
+hCoV-19/Thailand/A21901/2021,B.1.36.16,0.0,,,,,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,Usher placements: B.1.36.16(2/2)
+hCoV-19/Thailand/A21902/2021,B.1.36.16,0.0,,,,,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,Usher placements: B.1.36.16(1/1)
+hCoV-19/Thailand/A21903/2021,C.17,0.0,,,,,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,Usher placements: C.17(1/1)
+hCoV-19/Thailand/A21907/2021,B.1.1.7,0.0,,Alpha (B.1.1.7-like),0.956500,0.043500,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Usher placements: B.1.1.7(3/3)
+hCoV-19/Thailand/A21908/2021,B.1.1.354,0.0,,,,,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,Usher placements: B.1.1.354(1/1)
+hCoV-19/Thailand/A21909/2021,B.1.1.163,0.0,,,,,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,Usher placements: B.1.1.163(1/1)
+hCoV-19/Thailand/A21910/2021,B.1.1.163,0.0,,,,,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,Usher placements: B.1.1.163(1/1)
+hCoV-19/Thailand/A21911/2021,B.1.1.163,0.0,,,,,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,Usher placements: B.1.1.163(1/1)
+hCoV-19/Thailand/A21912/2021,B.1.1.163,0.0,,,,,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,Usher placements: B.1.1.163(1/1)
+hCoV-19/Thailand/A21913/2021,B.1.1.7,0.0,,Alpha (B.1.1.7-like),0.956500,0.043500,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Usher placements: B.1.1.7(3/3)
+hCoV-19/Thailand/A21914/2021,B.1.1.163,0.0,,,,,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,Usher placements: B.1.1.163(1/1)
+hCoV-19/Thailand/A21915/2021,B.1.1.7,0.0,,Alpha (B.1.1.7-like),0.956500,0.043500,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Usher placements: B.1.1.7(3/3)
+hCoV-19/Thailand/A21916/2021,B.1.1.7,0.0,,Alpha (B.1.1.7-like),0.913000,0.087000,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 21; Ref alleles 2; Amb alleles 0; Usher placements: B.1.1.7(3/3)
+hCoV-19/Thailand/A21917/2021,B.1.177,0.0,,,,,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,Usher placements: B.1.177(1/1)
+hCoV-19/Thailand/A21918/2021,B.1.1.7,0.0,,Alpha (B.1.1.7-like),0.956500,0.043500,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Usher placements: B.1.1.7(1/1)
+hCoV-19/Thailand/A21919/2021,Q.4,0.0,,Alpha (B.1.1.7-like),0.956500,0.043500,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Usher placements: Q.4(3/3)
+hCoV-19/Thailand/A21920/2021,B.1.1.7,0.0,,Alpha (B.1.1.7-like),0.956500,0.043500,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Usher placements: B.1.1.7(3/3)
+hCoV-19/Thailand/A21921/2021,B.1.1.7,0.0,,Alpha (B.1.1.7-like),0.956500,0.043500,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Usher placements: B.1.1.7(3/3)
+hCoV-19/Thailand/A21922/2021,B.1.1.7,0.0,,Alpha (B.1.1.7-like),0.913000,0.043500,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 21; Ref alleles 1; Amb alleles 1; Usher placements: B.1.1.7(3/3)
+hCoV-19/Thailand/A21923/2021,B.1.1.7,0.0,,Alpha (B.1.1.7-like),0.956500,0.043500,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Usher placements: B.1.1.7(1/1)
+hCoV-19/Thailand/A21924/2021,B.1,0.0,,,,,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,Usher placements: B.1(1/1)
+hCoV-19/Thailand/A21925/2021,B.1.1.7,0.0,,Alpha (B.1.1.7-like),0.956500,0.043500,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Usher placements: B.1.1.7(4/4)
+hCoV-19/Thailand/A21926/2021,B.1.351,0.0,,Beta (B.1.351-like),0.785700,0.000000,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 11; Ref alleles 0; Amb alleles 0; Usher placements: B.1.351(2/2)
+hCoV-19/Thailand/A21927/2021,B.1.1.7,0.0,,Alpha (B.1.1.7-like),0.956500,0.043500,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Usher placements: B.1.1.7(3/3)
+hCoV-19/Thailand/A21928/2021,B.1.1.7,0.0,,Alpha (B.1.1.7-like),0.956500,0.043500,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Usher placements: B.1.1.7(2/2)
+hCoV-19/Thailand/A21929/2021,B.1.1.7,0.0,,Alpha (B.1.1.7-like),0.956500,0.043500,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Usher placements: B.1.1.7(1/1)
+hCoV-19/Thailand/A21930/2021,B.1.1.7,0.0,,Alpha (B.1.1.7-like),0.956500,0.043500,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Usher placements: B.1.1.7(1/1)
+hCoV-19/Thailand/A21931/2021,B.1.1.7,0.0,,Alpha (B.1.1.7-like),0.956500,0.043500,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Usher placements: B.1.1.7(1/1)
+hCoV-19/Thailand/A21932/2021,B.1.1.7,0.0,,Alpha (B.1.1.7-like),0.956500,0.043500,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Usher placements: B.1.1.7(1/1)
+hCoV-19/Thailand/A21933/2021,B.1.525,0.0,,Eta (B.1.525-like),1.000000,0.000000,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 16; Ref alleles 0; Amb alleles 0; Usher placements: B.1.525(5/5)
+hCoV-19/Thailand/A21934/2021,B.1.1.7,0.0,,Alpha (B.1.1.7-like),0.956500,0.043500,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Usher placements: B.1.1.7(1/1)
+hCoV-19/Thailand/A21935/2021,B.1.1.7,0.0,,Alpha (B.1.1.7-like),0.956500,0.043500,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Usher placements: B.1.1.7(3/3)
+hCoV-19/Thailand/A21936/2021,B.1.1.7,0.0,,Alpha (B.1.1.7-like),0.956500,0.043500,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Usher placements: B.1.1.7(4/4)
+hCoV-19/Thailand/A21937/2021,B.1.1.7,0.0,,Alpha (B.1.1.7-like),0.956500,0.043500,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Usher placements: B.1.1.7(3/3)
+hCoV-19/Thailand/A21938/2021,B.1.351.2,0.0,,Beta (B.1.351-like),0.857100,0.000000,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 12; Ref alleles 0; Amb alleles 0; Usher placements: B.1.351.2(3/3)
+hCoV-19/Thailand/A21941/2020,B.1.1.216,0.0,,,,,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,Usher placements: B.1.1.216(1/1)
+hCoV-19/Thailand/A21942/2020,B.1.177.7,0.0,,,,,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,Usher placements: B.1.177.7(1/1)
+hCoV-19/Thailand/A21943/2020,B.1.177.7,0.0,,,,,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,Usher placements: B.1.177.7(1/1)
+hCoV-19/Thailand/A21944/2020,B.1.1.306,0.0,,,,,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,Usher placements: B.1.1.306(1/1)
+hCoV-19/Thailand/A21946/2020,B.1,0.0,,,,,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,Usher placements: B.1(1/1)
+hCoV-19/Thailand/A21947/2020,B.1.1,0.0,,,,,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,Usher placements: B.1.1(1/1)
+hCoV-19/Thailand/A21948/2020,B.1.160,0.0,,,,,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,Usher placements: B.1.160(1/1)
+hCoV-19/Thailand/A21949/2020,B.1.1.303,0.0,,,,,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,Usher placements: B.1.1.303(1/1)
+hCoV-19/Thailand/A21950/2020,B.1.1.303,0.0,,,,,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,Usher placements: B.1.1.303(1/1)
+hCoV-19/Thailand/A21951/2020,B.1.1.312,0.0,,,,,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,Usher placements: B.1.1.312(1/1)
+hCoV-19/Thailand/A21952/2020,B.1.1.70,0.0,,,,,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,Usher placements: B.1.1.70(2/2)
+hCoV-19/Thailand/A21953/2020,B.1.1.70,0.0,,,,,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,Usher placements: B.1.1.70(2/2)
+hCoV-19/Thailand/CU-A21513-NT/2021,AY.30,0.0,,Delta (B.1.617.2-like),1.000000,0.000000,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Usher placements: AY.30(1/1)
+hCoV-19/Thailand/CU-A21517-NT/2021,AY.30,0.0,,Delta (B.1.617.2-like),1.000000,0.000000,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Usher placements: AY.30(1/1)
+hCoV-19/Thailand/CU-A21524-NT/2021,AY.30,0.0,,Delta (B.1.617.2-like),0.923100,0.076900,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 12; Ref alleles 1; Amb alleles 0; Usher placements: AY.30(1/1)
+hCoV-19/Thailand/CU-A21529-NT/2021,AY.30,0.0,,Delta (B.1.617.2-like),1.000000,0.000000,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Usher placements: AY.30(1/1)
+hCoV-19/Thailand/CU-A21532-NT/2021,AY.30,0.0,,Delta (B.1.617.2-like),0.923100,0.076900,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 12; Ref alleles 1; Amb alleles 0; Usher placements: AY.30(1/1)
+hCoV-19/Thailand/CU-A21576-NT/2021,AY.30,0.0,,Delta (B.1.617.2-like),1.000000,0.000000,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Usher placements: AY.30(1/1)
+hCoV-19/Thailand/CU-A21581-NT/2021,AY.30,0.0,,Delta (B.1.617.2-like),1.000000,0.000000,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Usher placements: AY.30(1/1)
+hCoV-19/Thailand/CU-A21582-NT/2021,AY.30,0.0,,Delta (B.1.617.2-like),1.000000,0.000000,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Usher placements: AY.30(1/1)
+hCoV-19/Thailand/CU-A21557-NT/2021,AY.30,0.0,,Delta (B.1.617.2-like),1.000000,0.000000,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Usher placements: AY.30(1/1)
+hCoV-19/Thailand/CU-A21558-NT/2021,AY.30,0.0,,Delta (B.1.617.2-like),0.923100,0.076900,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 12; Ref alleles 1; Amb alleles 0; Usher placements: AY.30(1/1)
+hCoV-19/Thailand/CU-A21560-NT/2021,AY.30,0.0,,Delta (B.1.617.2-like),1.000000,0.000000,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Usher placements: AY.30(1/1)
+hCoV-19/Thailand/CU-A21562-NT/2021,AY.30,0.0,,Delta (B.1.617.2-like),0.923100,0.076900,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 12; Ref alleles 1; Amb alleles 0; Usher placements: AY.30(1/1)
+hCoV-19/Thailand/CU-A21565-NT/2021,AY.30,0.0,,Delta (B.1.617.2-like),0.923100,0.076900,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 12; Ref alleles 1; Amb alleles 0; Usher placements: AY.30(1/1)
+hCoV-19/Thailand/CU-A21566-NT/2021,AY.30,0.0,,Delta (B.1.617.2-like),1.000000,0.000000,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Usher placements: AY.30(1/1)
+hCoV-19/Thailand/CU-A21569-NT/2021,AY.30,0.0,,Delta (B.1.617.2-like),1.000000,0.000000,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Usher placements: AY.30(1/1)
+hCoV-19/Thailand/CU-A21570-NT/2021,AY.30,0.0,,Delta (B.1.617.2-like),1.000000,0.000000,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Usher placements: AY.30(1/1)
+hCoV-19/Thailand/CU-A21572-NT/2021,AY.30,0.0,,Delta (B.1.617.2-like),1.000000,0.000000,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Usher placements: AY.30(1/1)
+hCoV-19/Thailand/CU-A21573-NT/2021,AY.30,0.0,,Delta (B.1.617.2-like),1.000000,0.000000,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Usher placements: AY.30(1/1)
+hCoV-19/Thailand/CU-A21574-NT/2021,AY.30,0.0,,Delta (B.1.617.2-like),0.923100,0.076900,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 12; Ref alleles 1; Amb alleles 0; Usher placements: AY.30(1/1)
+hCoV-19/Thailand/CU-A21575-NT/2021,AY.30,0.0,,Delta (B.1.617.2-like),0.923100,0.076900,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 12; Ref alleles 1; Amb alleles 0; Usher placements: AY.30(1/1)
+hCoV-19/Thailand/CU-A21577-NT/2021,AY.30,0.0,,Delta (B.1.617.2-like),1.000000,0.000000,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Usher placements: AY.30(1/1)
+hCoV-19/Thailand/CU-A21590-NT/2021,AY.30,0.0,,Delta (B.1.617.2-like),0.923100,0.076900,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 12; Ref alleles 1; Amb alleles 0; Usher placements: AY.30(1/1)
+hCoV-19/Thailand/CU-A21591-NT/2021,AY.30,0.0,,Delta (B.1.617.2-like),1.000000,0.000000,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Usher placements: AY.30(1/1)
+hCoV-19/Thailand/CU-A21597-NT/2021,AY.30,0.0,,Delta (B.1.617.2-like),1.000000,0.000000,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Usher placements: AY.30(1/1)
+hCoV-19/Thailand/CU-A21598-NT/2021,AY.30,0.0,,Delta (B.1.617.2-like),0.923100,0.076900,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 12; Ref alleles 1; Amb alleles 0; Usher placements: AY.30(1/1)
+hCoV-19/Thailand/CU-A21609-NT/2021,AY.30,0.0,,Delta (B.1.617.2-like),1.000000,0.000000,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Usher placements: AY.30(1/1)
+hCoV-19/Thailand/CU-A21611-NT/2021,AY.30,0.0,,Delta (B.1.617.2-like),1.000000,0.000000,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Usher placements: AY.30(1/1)
+hCoV-19/Thailand/CU-A21621-NT/2021,AY.30,0.0,,Delta (B.1.617.2-like),0.923100,0.076900,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 12; Ref alleles 1; Amb alleles 0; Usher placements: AY.30(1/1)
+hCoV-19/Thailand/CU-A21396-NT/2021,AY.30,0.0,,Delta (B.1.617.2-like),0.923100,0.076900,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 12; Ref alleles 1; Amb alleles 0; Usher placements: AY.30(1/1)
+hCoV-19/Thailand/CU-A21587-NT/2021,AY.30,0.0,,Delta (B.1.617.2-like),0.923100,0.076900,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 12; Ref alleles 1; Amb alleles 0; Usher placements: AY.30(1/1)
+hCoV-19/Thailand/CU-A21563-NT/2021,B.1.617.2,0.5,,Delta (B.1.617.2-like),0.923100,0.000000,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 12; Ref alleles 0; Amb alleles 1; Usher placements: AY.30(1/2) B.1.617.2(1/2)
+hCoV-19/Thailand/CU-A21160-NT/2021,B.1.1.7,0.0,,Alpha (B.1.1.7-like),0.956500,0.043500,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Usher placements: B.1.1.7(3/3)
+hCoV-19/Thailand/CU-A21381-NT/2021,B.1.1.7,0.0,,Alpha (B.1.1.7-like),0.956500,0.043500,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Usher placements: B.1.1.7(3/3)
+hCoV-19/Thailand/CU-A21393-NT/2021,B.1.1.7,0.0,,Alpha (B.1.1.7-like),0.956500,0.043500,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Usher placements: B.1.1.7(3/3)
+hCoV-19/Thailand/CU-A21397-NT/2021,B.1.1.7,0.0,,Alpha (B.1.1.7-like),0.956500,0.043500,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Usher placements: B.1.1.7(3/3)
+hCoV-19/Thailand/CU-A21398-NT/2021,B.1.1.7,0.0,,Alpha (B.1.1.7-like),0.956500,0.043500,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Usher placements: B.1.1.7(3/3)
+hCoV-19/Thailand/CU-A21514-NT/2021,B.1.1.7,0.0,,Alpha (B.1.1.7-like),0.956500,0.043500,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Usher placements: B.1.1.7(3/3)
+hCoV-19/Thailand/CU-A21511-NT/2021,B.1.1.7,0.0,,Alpha (B.1.1.7-like),0.956500,0.043500,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Usher placements: B.1.1.7(3/3)
+hCoV-19/Thailand/CU-A21519-NT/2021,B.1.1.7,0.0,,Alpha (B.1.1.7-like),0.956500,0.043500,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Usher placements: B.1.1.7(3/3)
+hCoV-19/Thailand/CU-A21520-NT/2021,B.1.1.7,0.0,,Alpha (B.1.1.7-like),0.956500,0.043500,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Usher placements: B.1.1.7(3/3)
+hCoV-19/Thailand/CU-A21521-NT/2021,B.1.1.7,0.0,,Alpha (B.1.1.7-like),0.956500,0.043500,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Usher placements: B.1.1.7(3/3)
+hCoV-19/Thailand/CU-A21527-Sputum/2021,B.1.1.7,0.0,,Alpha (B.1.1.7-like),0.956500,0.043500,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Usher placements: B.1.1.7(3/3)
+hCoV-19/Thailand/CU-A21531-NT/2021,B.1.1.7,0.0,,Alpha (B.1.1.7-like),0.956500,0.043500,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Usher placements: B.1.1.7(3/3)
+hCoV-19/Thailand/CU-A21534-NT/2021,B.1.1.7,0.0,,Alpha (B.1.1.7-like),0.956500,0.043500,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Usher placements: B.1.1.7(3/3)
+hCoV-19/Thailand/CU-A21544-NT/2021,B.1.1.7,0.0,,Alpha (B.1.1.7-like),0.956500,0.043500,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Usher placements: B.1.1.7(3/3)
+hCoV-19/Thailand/CU-A21559-NT/2021,B.1.1.7,0.0,,Alpha (B.1.1.7-like),0.956500,0.043500,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Usher placements: B.1.1.7(3/3)
+hCoV-19/Thailand/CU-A21564-NT/2021,B.1.1.7,0.0,,Alpha (B.1.1.7-like),0.956500,0.043500,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Usher placements: B.1.1.7(3/3)
+hCoV-19/Thailand/CU-A21604-NT/2021,B.1.1.7,0.0,,Alpha (B.1.1.7-like),0.956500,0.043500,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Usher placements: B.1.1.7(4/4)
+hCoV-19/Thailand/CU-A21394-NT/2021,B.1.1.7,0.0,,Alpha (B.1.1.7-like),0.956500,0.043500,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Usher placements: B.1.1.7(3/3)
+hCoV-19/Thailand/CU-A21620-NT/2021,AY.30,0.0,,Delta (B.1.617.2-like),1.000000,0.000000,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Usher placements: AY.30(1/1)
+hCoV-19/Thailand/CU-A21599-NT/2021,AY.30,0.0,,Delta (B.1.617.2-like),0.923100,0.076900,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 12; Ref alleles 1; Amb alleles 0; Usher placements: AY.30(1/1)
+hCoV-19/Thailand/CU-A21592-NT/2021,B.1.1.7,0.0,,Alpha (B.1.1.7-like),0.956500,0.043500,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Usher placements: B.1.1.7(4/4)
+hCoV-19/Thailand/CU-A21586-NT/2021,B.1.1.7,0.0,,Alpha (B.1.1.7-like),0.956500,0.043500,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Usher placements: B.1.1.7(3/3)
+hCoV-19/Thailand/CU-A21515-NT/2021,B.1.1.7,0.0,,Alpha (B.1.1.7-like),0.956500,0.043500,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Usher placements: B.1.1.7(3/3)
+hCoV-19/Thailand/CU-A21588-NT/2021,AY.30,0.0,,Delta (B.1.617.2-like),0.923100,0.076900,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 12; Ref alleles 1; Amb alleles 0; Usher placements: AY.30(1/1)
+hCoV-19/Thailand/CU-A21618-NT/2021,AY.30,0.0,,Delta (B.1.617.2-like),0.923100,0.076900,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 12; Ref alleles 1; Amb alleles 0; Usher placements: AY.30(1/1)
+hCoV-19/Thailand/CU-A21622-NT/2021,AY.30,0.0,,Delta (B.1.617.2-like),1.000000,0.000000,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Usher placements: AY.30(1/1)
+hCoV-19/Thailand/CU-A21395-NT/2021,AY.30,0.0,,Delta (B.1.617.2-like),0.923100,0.000000,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 12; Ref alleles 0; Amb alleles 1; Usher placements: AY.30(1/1)
+hCoV-19/Thailand/CU-A21546-NT/2021,B.1.1.7,0.0,,Alpha (B.1.1.7-like),0.956500,0.043500,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Usher placements: B.1.1.7(3/3)
+hCoV-19/Thailand/CU-A21614-NT/2021,AY.30,0.0,,Delta (B.1.617.2-like),0.923100,0.076900,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 12; Ref alleles 1; Amb alleles 0; Usher placements: AY.30(1/1)
+hCoV-19/Thailand/CU-A21354-NPS/2021,B.1.617.2,0.0,,Delta (B.1.617.2-like),1.000000,0.000000,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Usher placements: B.1.617.2(1/1)
+hCoV-19/Thailand/CU-A21489-NPS/2021,B.1.617.2,0.0,,Delta (B.1.617.2-like),1.000000,0.000000,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Usher placements: B.1.617.2(1/1)
+hCoV-19/Thailand/CU-A21594-NPS/2021,AY.85,0.0,,Delta (B.1.617.2-like),1.000000,0.000000,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Usher placements: AY.85(1/1)
+hCoV-19/Thailand/CU-A21605-NT/2021,AY.30,0.0,,Delta (B.1.617.2-like),1.000000,0.000000,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Usher placements: AY.30(1/1)
+hCoV-19/Thailand/CU-A21635-NT/2021,AY.30,0.0,,Delta (B.1.617.2-like),1.000000,0.000000,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Usher placements: AY.30(1/1)
+hCoV-19/Thailand/CU-A21641-NT/2021,AY.30,0.0,,Delta (B.1.617.2-like),0.923100,0.076900,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 12; Ref alleles 1; Amb alleles 0; Usher placements: AY.30(1/1)
+hCoV-19/Thailand/CU-A21660-Sputum/2021,AY.85,0.0,,Delta (B.1.617.2-like),1.000000,0.000000,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Usher placements: AY.85(1/1)
+hCoV-19/Thailand/CU-A21662-NT/2021,AY.30,0.0,,Delta (B.1.617.2-like),0.923100,0.076900,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 12; Ref alleles 1; Amb alleles 0; Usher placements: AY.30(1/1)
+hCoV-19/Thailand/CU-A21729-NS/2021,AY.85,0.0,,Delta (B.1.617.2-like),1.000000,0.000000,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Usher placements: AY.85(1/1)
+hCoV-19/Thailand/CU-A21730-NT/2021,AY.30,0.0,,Delta (B.1.617.2-like),0.923100,0.076900,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 12; Ref alleles 1; Amb alleles 0; Usher placements: AY.30(1/1)
+hCoV-19/Thailand/CU-A21735-NT/2021,AY.30,0.0,,Delta (B.1.617.2-like),0.923100,0.076900,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 12; Ref alleles 1; Amb alleles 0; Usher placements: AY.30(1/1)
+hCoV-19/Thailand/CU-A21737-NT/2021,AY.29,0.0,,Delta (B.1.617.2-like),0.923100,0.076900,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 12; Ref alleles 1; Amb alleles 0; Usher placements: AY.29(1/1)
+hCoV-19/Thailand/CU-A21738-NT/2021,AY.30,0.0,,Delta (B.1.617.2-like),0.923100,0.076900,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 12; Ref alleles 1; Amb alleles 0; Usher placements: AY.30(1/1)
+hCoV-19/Thailand/CU-A21888-NT/2021,AY.30,0.0,,Delta (B.1.617.2-like),0.923100,0.076900,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 12; Ref alleles 1; Amb alleles 0; Usher placements: AY.30(1/1)
+hCoV-19/Thailand/CU-A21955-NPS/2021,AY.30,0.0,,Delta (B.1.617.2-like),0.923100,0.076900,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 12; Ref alleles 1; Amb alleles 0; Usher placements: AY.30(1/1)
+hCoV-19/Thailand/CU-A21956-NT/2021,AY.85,0.0,,Delta (B.1.617.2-like),1.000000,0.000000,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Usher placements: AY.85(1/1)
+hCoV-19/Thailand/CU-A21963-NT/2021,AY.30,0.0,,Delta (B.1.617.2-like),1.000000,0.000000,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Usher placements: AY.30(1/1)
+hCoV-19/Thailand/CU-A21972-NT/2021,AY.30,0.0,,Delta (B.1.617.2-like),0.923100,0.076900,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 12; Ref alleles 1; Amb alleles 0; Usher placements: AY.30(1/1)
+hCoV-19/Thailand/CU-A21983-NT/2021,AY.85,0.0,,Delta (B.1.617.2-like),1.000000,0.000000,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Usher placements: AY.85(1/1)
+hCoV-19/Thailand/CU-A21979-NT/2021,C.36.3,0.0,,,,,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,Usher placements: C.36.3(1/1)
+hCoV-19/Thailand/CU-A21075-AF/2021,B.1.1.7,0.0,,Alpha (B.1.1.7-like),0.913000,0.087000,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 21; Ref alleles 2; Amb alleles 0; Usher placements: B.1.1.7(6/6)
+hCoV-19/Thailand/CU-A21101-NT/2021,B.1.1.7,0.0,,Alpha (B.1.1.7-like),0.956500,0.043500,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Usher placements: B.1.1.7(4/4)
+hCoV-19/Thailand/CU-A21625-NT/2021,B.1.1.7,0.0,,Alpha (B.1.1.7-like),0.956500,0.043500,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Usher placements: B.1.1.7(3/3)
+hCoV-19/Thailand/CU-A21314-NT/2021,B.1.1.7,0.0,,Alpha (B.1.1.7-like),0.956500,0.043500,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Usher placements: B.1.1.7(2/2)
+hCoV-19/Thailand/CU-A21984-NT/2021,AY.85,0.0,,Delta (B.1.617.2-like),0.923100,0.000000,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 12; Ref alleles 0; Amb alleles 1; Usher placements: AY.85(1/1)
+hCoV-19/Thailand/CU-A21626-NT/2021,AY.85,0.0,,Delta (B.1.617.2-like),0.923100,0.000000,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 12; Ref alleles 0; Amb alleles 1; Usher placements: AY.85(1/1)
+hCoV-19/Thailand/CU-A21980-NT/2021,AY.30,0.0,,Delta (B.1.617.2-like),1.000000,0.000000,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Usher placements: AY.30(1/1)
+hCoV-19/Thailand/CU-A21556-NPS/2021,B.1.1.7,0.0,,Alpha (B.1.1.7-like),0.956500,0.043500,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Usher placements: B.1.1.7(2/2)
+hCoV-19/Thailand/CU-A21957-NT/2021,AY.30,0.0,,Delta (B.1.617.2-like),0.923100,0.000000,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 12; Ref alleles 0; Amb alleles 1; Usher placements: AY.30(1/1)
+hCoV-19/Thailand/CU-A21990-NT/2021,AY.30,0.0,,Delta (B.1.617.2-like),0.923100,0.000000,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 12; Ref alleles 0; Amb alleles 1; Usher placements: AY.30(1/1)
+hCoV-19/Thailand/CU-A21642-NT/2021,AY.30,0.0,,Delta (B.1.617.2-like),0.923100,0.076900,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 12; Ref alleles 1; Amb alleles 0; Usher placements: AY.30(1/1)
+hCoV-19/Thailand/CU-A21732-NT/2021,B.1.1.7,0.0,,Alpha (B.1.1.7-like),0.956500,0.043500,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Usher placements: B.1.1.7(3/3)
+hCoV-19/Thailand/CU-A21736-NT/2021,AY.30,0.0,,Delta (B.1.617.2-like),0.923100,0.076900,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 12; Ref alleles 1; Amb alleles 0; Usher placements: AY.30(1/1)
+hCoV-19/Thailand/CU-A21663-NT/2021,AY.30,0.0,,Delta (B.1.617.2-like),0.923100,0.076900,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 12; Ref alleles 1; Amb alleles 0; Usher placements: AY.30(1/1)
+hCoV-19/Thailand/CU-A21731-NT/2021,AY.30,0.0,,Delta (B.1.617.2-like),0.923100,0.076900,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 12; Ref alleles 1; Amb alleles 0; Usher placements: AY.30(1/1)
+hCoV-19/Thailand/CU-A21698-NT/2021,AY.30,0.0,,Delta (B.1.617.2-like),0.923100,0.076900,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 12; Ref alleles 1; Amb alleles 0; Usher placements: AY.30(1/1)
+hCoV-19/Thailand/CU-A21078-NT/2021,B.1.1.7,0.0,,Alpha (B.1.1.7-like),0.956500,0.043500,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Usher placements: B.1.1.7(3/3)
+hCoV-19/Thailand/CU-A21978-NT/2021,AY.30,0.0,,Delta (B.1.617.2-like),0.923100,0.000000,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 12; Ref alleles 0; Amb alleles 1; Usher placements: AY.30(1/1)
+hCoV-19/Thailand/CU-A21733-NT/2021,AY.30,0.0,,Delta (B.1.617.2-like),0.923100,0.000000,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 12; Ref alleles 0; Amb alleles 1; Usher placements: AY.30(1/1)
+hCoV-19/Thailand/CU-A21661-Sputum/2021,AY.30,0.0,,Delta (B.1.617.2-like),0.923100,0.000000,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 12; Ref alleles 0; Amb alleles 1; Usher placements: AY.30(1/1)
+hCoV-19/Thailand/CU-A21966-NT/2021,AY.30,0.0,,Delta (B.1.617.2-like),0.923100,0.076900,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 12; Ref alleles 1; Amb alleles 0; Usher placements: AY.30(1/1)
+hCoV-19/Thailand/CU-A21182-NT/2021,B.1.617.2,0.0,,Delta (B.1.617.2-like),0.923100,0.076900,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 12; Ref alleles 1; Amb alleles 0; Usher placements: B.1.617.2(1/1)
+hCoV-19/Thailand/CU-A21322-NPS/2021,B.1.1.7,0.0,,Alpha (B.1.1.7-like),0.913000,0.043500,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 21; Ref alleles 1; Amb alleles 1; Usher placements: B.1.1.7(4/4)
+hCoV-19/Thailand/CU-A21433-NT/2021,B.1.351,0.0,,Beta (B.1.351-like),0.785700,0.000000,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 11; Ref alleles 0; Amb alleles 1; Usher placements: B.1.351(1/1)
+hCoV-19/Thailand/CU-A21434-NT/2021,B.1.351,0.0,,Beta (B.1.351-like),0.857100,0.000000,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 12; Ref alleles 0; Amb alleles 0; Usher placements: B.1.351(1/1)
+hCoV-19/Thailand/CU-A21023-NT/2021,B.1.525,0.0,,Eta (B.1.525-like),1.000000,0.000000,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 16; Ref alleles 0; Amb alleles 0; Usher placements: B.1.525(3/3)
+hCoV-19/Thailand/CU-A211013/2021,AY.30,0.0,,Delta (B.1.617.2-like),0.923100,0.076900,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 12; Ref alleles 1; Amb alleles 0; Usher placements: AY.30(1/1)
+hCoV-19/Thailand/CU-A211014/2021,AY.30,0.0,,Delta (B.1.617.2-like),1.000000,0.000000,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Usher placements: AY.30(1/1)
+hCoV-19/Thailand/CU-A211015/2021,AY.85,0.0,,Delta (B.1.617.2-like),1.000000,0.000000,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Usher placements: AY.85(1/1)
+hCoV-19/Thailand/CU-A211017/2021,AY.127,0.0,,Delta (B.1.617.2-like),1.000000,0.000000,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Usher placements: AY.127(1/1)
+hCoV-19/Thailand/CU-SI2012949-NT/2020,B.1,0.0,,,,,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,Usher placements: B.1(1/1)
+hCoV-19/Thailand/CU-SI2105809-NT/2021,B.1.351,0.0,,Beta (B.1.351-like),0.571400,0.000000,PUSHER-v1.2.123,3.1.19,,v1.2.123,passed_qc,scorpio call: Alt alleles 8; Ref alleles 0; Amb alleles 5; Usher placements: B.1.351(1/1)
