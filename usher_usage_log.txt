@@ -1,0 +1,81 @@
+####################################################################################################333
+# Usher usage log
+# adopted from: https://usher-wiki.readthedocs.io/en/latest/index.html
+####################################################################################################333
+
+
+# Current working directory: ~/test_usher
+
+
+####################################################################################################333
+#                                          JUST FOR THE FIRST TIME
+####################################################################################################333
+
+# Preprocessing phylogeny data
+
+## Retrieve SARS-CoV-2 Wuhan-hu-1 reference genome
+wget https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/009/858/895/GCF_009858895.2_ASM985889v3/GCF_009858895.2_ASM985889v3_genomic.fna.gz
+gunzip GCF_009858895.2_ASM985889v3_genomic.fna.gz
+## concatenate to the alignment query file
+cat GCF_009858895.2_ASM985889v3_genomic.fna toy_variant_70seqs.sequences.fasta > toy_variant_70seqs_pre-alignment.fasta
+
+
+## Alignment with MAFFT
+time mafft toy_variant_70seqs.sequences.fasta > toy_variant_70seqs.aligned.fasta
+	# real    0m8.307s
+	# user    0m8.268s
+	# sys     0m0.062s
+
+
+## convert alignment fasta to vcf file
+### We put the reference sequence to the first sequence during the concatenation,
+### the program will then use the first sequence in a file as a reference genome,
+### in order to convert aligned fasta to vcf file.
+time faToVcf ./toy_variant_70seqs.aligned.fasta ./toy_variant_70seqs.vcf
+	# real    0m0.020s
+	# user    0m0.020s
+	# sys     0m0.000s
+
+
+## Construct seed phylogeny, this for create 
+time iqtree -s toy_variant_70seqs.aligned.fasta -m TEST -T AUTO -B 1000
+	# real    15m47.244s
+	# user    34m38.430s
+	# sys     0m23.168s
+
+
+## Create a mutation annotated tree object (.pb file)
+time usher --tree treefiles/toy_variant_70seqs.aligned.fasta.treefile --vcf toy_variant_70seqs.vcf --collapse-tree --save-mutation-annotated-tree seed_phylo_70seqs.pb
+	# real    0m0.017s
+	# user    0m0.090s
+	# sys     0m0.008s
+
+
+
+####################################################################################################333
+#                                           WHEN NEW SAMPLES COME
+####################################################################################################333
+
+# Example sequences were retrieved from GISAID,
+# selected only for omicron (BA.1, BA.2) and Delta (AY.)
+
+
+## Placing new samples to the tree
+## New samples were placed in ./new_samples
+## Multiple alignment
+time mafft new_samples/new_samples.fasta > new_samples/new_samples.aligned.fasta
+	# real    0m1.945s
+	# user    0m1.923s
+	# sys     0m0.043s
+
+## convert alignment fasta to vcf file
+time faToVcf new_samples/new_samples.aligned.fasta new_samples/new_samples.vcf
+	# real    0m0.009s
+	# user    0m0.009s
+	# sys     0m0.001s
+
+## Place new samples to the existing tree
+time usher -i seed_phylo_70seqs.pb -v new_samples/new_samples.vcf -u -d output/
+	# real    0m0.018s
+	# user    0m0.095s
+	# sys     0m0.001s
